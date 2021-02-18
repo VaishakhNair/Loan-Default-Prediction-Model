@@ -1,4 +1,4 @@
-# (P.S Github sometimes takes time while loading ipynb files, so just reload a couple times if it shows you error. or you can render it using https://nbviewer.jupyter.org/. Open the link and just copy paste the link of ipynb file. It should display just fine then :) )
+(P.S Github sometimes takes time while loading ipynb files, so just reload a couple times if it shows you error. or you can render it using https://nbviewer.jupyter.org/. Open the link and just copy paste the link of ipynb file. It should display just fine then :) )
 
 # Loan-Default-Prediction-Model
 
