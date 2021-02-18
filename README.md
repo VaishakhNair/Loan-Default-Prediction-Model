@@ -1,4 +1,6 @@
 # Loan-Default-Prediction-Model
+(P.S Github sometimes takes time while loading ipynb files, so just reload a couple times if it shows you error. It should display just fine then :) )
+
 A binary prediction model for loan defaults.
 
 PROBLEM : Build a binary prediction model that allows us to predict the likelihood of default of a consumer.
