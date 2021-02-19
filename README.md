@@ -23,6 +23,7 @@ Brief Description of EDA :
 3) Observed the datatypes of the features.
 4) The "3.286%" of missing categorical values in Employment.Type was handled by utilizing the mode value of the column.
 5) No duplicate values found.
+
 Analysed :
 1) The value count and histogram of unique values in Aadhar_flag, PAN_flag, VoterID_flag, Driving_flag, Passport_flag, Employment.Type.
 2) The value distribution of Loan default
